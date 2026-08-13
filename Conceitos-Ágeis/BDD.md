@@ -48,7 +48,7 @@ Em resumo, enquanto o TDD é mais voltado para a qualidade do código e reduçã
 
 # Critérios de Aceite
 
-Podemos ver um pouco na prática como o BDD funciona, pelo [Template - História de Usuário](https://dev.azure.com/Personal-Scrum/Agile%20Master/_wiki/wikis/Agile-Master.wiki/52/Template-Hist%C3%B3ria-de-Usu%C3%A1rio). Reparamos no exemplo que o requisito foi provavelmente analisado, entendido minimamente (funcionalmente) e divido em critérios.
+Podemos ver um pouco na prática como o BDD funciona, pelo template de história de usuário (página não publicada aqui). Reparamos no exemplo que o requisito foi provavelmente analisado, entendido minimamente (funcionalmente) e divido em critérios.
 
 Alguns exemplos práticos:
 

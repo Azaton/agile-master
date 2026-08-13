@@ -28,7 +28,7 @@ Ao longo dos anos, o Guia Scrum começou a ficar um pouco mais prescritivo. A ve
 [Sprint Goal, o aspecto central do Scrum!](https://app.mural.co/t/personallife0912/m/personallife0912/1620233896023/61e6d5fa7cc400bf5879cd32bf88c50e617e493c?sender=u4ed12f89945b0e4998e13064
 )
 
-[Métricas de Apoio](https://dev.azure.com/Personal-Scrum/Agile%20Master/_workitems/edit/176)
+Métricas de Apoio (item de trabalho interno, não publicado aqui)
 
 
 
