@@ -1,0 +1,26 @@
+title: Agile Master
+description: Doses homeopáticas de conhecimento Agile — Scrum, liderança, carreira, cases e certificações.
+url: "https://azaton.github.io"
+baseurl: "/agile-master"
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+color_scheme: dark
+search_enabled: true
+nav_sort: default
+heading_anchors: true
+
+aux_links:
+  "Repositório no GitHub":
+    - "https://github.com/Azaton/agile-master"
+aux_links_new_tab: true
+
+back_to_top: true
+back_to_top_text: "Voltar ao topo"
+footer_content: "Agile Master — Thiago Luiz Mendes."
+
+exclude:
+  - tools
+  - README.md
