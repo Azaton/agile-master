@@ -69,7 +69,7 @@ O usuário administrador é aquele que terá acesso a lista de reservas. A princ
 
 3. O administrador da plataforma pode bloquear os usuários por qualquer motivo, por exemplo, aqueles que marcaram a visita e não compareceram.
 
-# [Funcionalidades]({% link DevTeam/Projetos/CPO/Páginas-&-Funcionalidades.md %})
+# [Funcionalidades]({{ site.baseurl }}/DevTeam/Projetos/CPO/Páginas-&-Funcionalidades.html)
 
 O sistema possui: Cadastro de Usuários, Usuários Administradores, Agenda, Bloqueio, Impressão, Controle e Consulta de Usuários de Sistem.
 

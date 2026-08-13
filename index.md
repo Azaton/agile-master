@@ -6,7 +6,7 @@ permalink: "/"
 
 # Seja Bem Vindo Agile Master!
 
-Este canal fornece [doses homeopáticas]({% link Conceitos-Ágeis/Agile-Pill.md %}) de conhecimento [Agile](https://en.wikipedia.org/wiki/Agile_software_development).
+Este canal fornece [doses homeopáticas]({{ site.baseurl }}/Conceitos-Ágeis/Agile-Pill.html) de conhecimento [Agile](https://en.wikipedia.org/wiki/Agile_software_development).
 
 # Metodologia Ágil
 
