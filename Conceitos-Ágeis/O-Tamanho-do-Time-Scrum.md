@@ -1,6 +1,6 @@
 ---
 title: "O Tamanho do Time Scrum"
-nav_order: 17
+nav_order: 18
 parent: "Conceitos Ágeis"
 ---
 

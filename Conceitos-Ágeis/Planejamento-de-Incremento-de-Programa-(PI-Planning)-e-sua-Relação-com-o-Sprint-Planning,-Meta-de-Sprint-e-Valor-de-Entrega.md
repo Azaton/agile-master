@@ -1,6 +1,6 @@
 ---
 title: "Planejamento de Incremento de Programa (PI Planning) e sua Relação com o Sprint Planning, Meta de Sprint e Valor de Entrega"
-nav_order: 21
+nav_order: 22
 parent: "Conceitos Ágeis"
 ---
 

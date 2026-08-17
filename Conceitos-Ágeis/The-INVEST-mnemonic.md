@@ -1,6 +1,6 @@
 ---
 title: "The INVEST mnemonic"
-nav_order: 25
+nav_order: 26
 parent: "Conceitos Ágeis"
 ---
 

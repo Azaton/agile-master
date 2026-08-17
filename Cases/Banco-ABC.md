@@ -4,8 +4,6 @@ nav_order: 1
 parent: "Cases"
 ---
 
-
-
 ---
 
 Em que área do cliente você atua?

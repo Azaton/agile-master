@@ -1,6 +1,6 @@
 ---
 title: "Lean Optimisation - Build, Iterate, Grow"
-nav_order: 12
+nav_order: 13
 parent: "Conceitos Ágeis"
 ---
 

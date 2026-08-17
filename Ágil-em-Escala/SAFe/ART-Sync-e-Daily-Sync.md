@@ -4,7 +4,6 @@ nav_order: 1
 parent: "SAFe"
 ---
 
-
 **Alinhamento de Times e Projetos: ART Sync e Daily Sync**
 
 Na prática do nosso dia a dia, mesmo sem adotarmos formalmente o framework SAFe, seguimos algumas cerimônias que cumprem objetivos similares: cerimônias recorrentes que cumprem objetivos semelhantes para alinhamento entre squads, visibilidade das entregas e fluidez no trabalho colaborativo.

@@ -4,7 +4,6 @@ nav_order: 7
 parent: "Páginas & Funcionalidades"
 ---
 
-
 Representa a "página de entrada" para os usuários, fornecendo a visão para acessar os links:
 
 - Site (Agendamento)

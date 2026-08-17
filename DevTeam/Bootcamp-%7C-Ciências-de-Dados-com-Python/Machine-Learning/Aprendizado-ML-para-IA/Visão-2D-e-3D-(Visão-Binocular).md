@@ -4,7 +4,6 @@ nav_order: 7
 parent: "Aprendizado ML para IA"
 ---
 
-
 **Visão em 3D (Tridimensional)**
 
 Nossos olhos percebem o mundo em três dimensões: altura, largura e profundidade (ou distância). Esta percepção tridimensional é possível devido à nossa visão binocular. Como os humanos têm dois olhos separados por uma certa distância, cada olho vê uma cena a partir de um ângulo ligeiramente diferente. O cérebro então funde essas duas imagens (um processo chamado fusão binocular) para criar uma percepção de profundidade. Esta capacidade de perceber profundidade é conhecida como estereopsia ou visão estereoscópica.

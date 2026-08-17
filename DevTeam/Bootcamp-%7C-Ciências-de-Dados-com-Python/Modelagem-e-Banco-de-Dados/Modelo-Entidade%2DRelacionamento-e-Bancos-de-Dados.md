@@ -4,7 +4,6 @@ nav_order: 3
 parent: "Modelagem e Banco de Dados"
 ---
 
-
 1. Criação de Bancos de Dados
 
 Sequência do processo de criação de bancos de dados: Requisitos, Modelo, Arquitetura e Implementação.

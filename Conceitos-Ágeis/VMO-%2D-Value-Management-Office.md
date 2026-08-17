@@ -1,6 +1,6 @@
 ---
 title: "VMO - Value Management Office"
-nav_order: 26
+nav_order: 27
 parent: "Conceitos Ágeis"
 ---
 

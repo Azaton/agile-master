@@ -4,7 +4,6 @@ nav_order: 4
 parent: "Aprendizado ML para IA"
 ---
 
-
 **1. As 3 Leis da Robótica de Asimov**
 
 O escritor de ficção científica Isaac Asimov propôs três leis fundamentais para a robótica em seus contos e romances. Elas são:

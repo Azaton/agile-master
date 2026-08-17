@@ -4,7 +4,6 @@ nav_order: 3
 parent: "Aprendizado ML para IA"
 ---
 
-
 **Deep Learning**
 
 - **Definição**: É uma subcategoria de machine learning (ML) que se concentra em algoritmos inspirados na estrutura e função dos neurônios biológicos, chamados redes neurais artificiais. 

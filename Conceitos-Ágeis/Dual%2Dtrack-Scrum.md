@@ -4,7 +4,6 @@ nav_order: 8
 parent: "Conceitos Ágeis"
 ---
 
-
 Dual-track Scrum, também conhecido como "Scrum de duas pistas" ou "Dual-track Agile", é uma abordagem que combina duas trilhas paralelas em um processo ágil. Essa metodologia é frequentemente usada em equipes de desenvolvimento de produtos para equilibrar a descoberta e a entrega contínuas durante o ciclo de desenvolvimento.
 
 O Dual-track Scrum divide o Scrum em duas pistas paralelas: Descoberta e Entrega. Na Descoberta, o Product Owner, os Desenvolvedores e outras partes interessadas-chave exploram as necessidades dos usuários, geram ideias e validam hipóteses sobre recursos potenciais do produto. Essa exploração ajuda a garantir que o que a equipe Scrum constrói seja valioso e útil. Na Entrega, os Desenvolvedores projetam, codificam e testam os recursos validados. 

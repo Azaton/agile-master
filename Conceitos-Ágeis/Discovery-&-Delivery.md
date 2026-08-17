@@ -4,7 +4,6 @@ nav_order: 7
 parent: "Conceitos Ágeis"
 ---
 
-
 No contexto do desenvolvimento ágil de software, o ciclo de vida do produto é frequentemente dividido em duas fases principais: "Discovery" e "Delivery". Cada fase tem suas próprias etapas e focos específicos para garantir que o produto final seja não apenas funcional, mas também alinhado com as necessidades do mercado e dos usuários.
 
 #### Discovery:
