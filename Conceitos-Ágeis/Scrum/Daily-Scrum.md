@@ -1,7 +1,8 @@
 ---
 title: "Daily Scrum"
 nav_order: 4
-parent: "O que é Scrum?"
+parent: "Scrum"
+grand_parent: "Conceitos Ágeis"
 ---
 
 **Daily Scrum**
@@ -29,7 +30,6 @@ Ao longo dos anos, o Guia Scrum começou a ficar um pouco mais prescritivo. A ve
 )
 
 Métricas de Apoio (item de trabalho interno, não publicado aqui)
-
 
 
 

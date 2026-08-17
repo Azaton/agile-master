@@ -1,7 +1,8 @@
 ---
 title: "DoR & DoD"
 nav_order: 5
-parent: "O que é Scrum?"
+parent: "Scrum"
+grand_parent: "Conceitos Ágeis"
 has_children: true
 ---
 

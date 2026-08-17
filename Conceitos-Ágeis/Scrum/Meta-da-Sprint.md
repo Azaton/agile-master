@@ -1,7 +1,8 @@
 ---
 title: "Meta da Sprint"
 nav_order: 7
-parent: "O que é Scrum?"
+parent: "Scrum"
+grand_parent: "Conceitos Ágeis"
 has_children: true
 ---
 

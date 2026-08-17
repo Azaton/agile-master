@@ -1,7 +1,8 @@
 ---
 title: "As 5 coisas poderosas sobre a Sprint"
 nav_order: 3
-parent: "O que é Scrum?"
+parent: "Scrum"
+grand_parent: "Conceitos Ágeis"
 ---
 
 A **Sprint** é o _coração do Scrum_. É o contêiner que engloba todos os demais eventos do framework, responsável por organizar o trabalho de forma iterativa e incremental. Com duração limitada a um mês ou menos, ela começa com a _Sprint Planning_ e termina com a _Sprint Review_ e _Sprint Retrospective_.

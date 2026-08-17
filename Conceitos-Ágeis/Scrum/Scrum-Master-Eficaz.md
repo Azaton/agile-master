@@ -1,7 +1,8 @@
 ---
 title: "Scrum Master Eficaz"
 nav_order: 10
-parent: "O que é Scrum?"
+parent: "Scrum"
+grand_parent: "Conceitos Ágeis"
 ---
 
 Um Scrum Master eficaz desempenha um papel crucial em garantir o sucesso de uma equipe Scrum. Para ser eficaz, um Scrum Master precisa adotar uma variedade de habilidades, competências e atitudes. Aqui estão algumas orientações e características essenciais para um Scrum Master eficaz:

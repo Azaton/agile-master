@@ -1,6 +1,7 @@
 ---
-title: "O que é Scrum?"
-nav_order: 13
+title: "Scrum"
+nav_order: 24
+parent: "Conceitos Ágeis"
 has_children: true
 ---
 

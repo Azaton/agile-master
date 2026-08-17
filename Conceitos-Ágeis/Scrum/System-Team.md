@@ -1,7 +1,8 @@
 ---
 title: "System Team"
 nav_order: 13
-parent: "O que é Scrum?"
+parent: "Scrum"
+grand_parent: "Conceitos Ágeis"
 ---
 
 Dentro do contexto da metodologia ágil, o System Team desempenha um papel crucial no suporte à escala e na integração de diferentes partes de um projeto ou produto. Esse time é responsável por garantir que o ambiente e as condições para o desenvolvimento ágil estejam otimizados para toda a organização.

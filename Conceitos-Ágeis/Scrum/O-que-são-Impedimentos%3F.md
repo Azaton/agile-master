@@ -1,7 +1,8 @@
 ---
 title: "O que são Impedimentos?"
 nav_order: 8
-parent: "O que é Scrum?"
+parent: "Scrum"
+grand_parent: "Conceitos Ágeis"
 ---
 
 Um impedimento é qualquer coisa que impeça a equipe de executar o seu trabalho, diminuindo assim a eficiência da equipe. Os impedimentos podem ter várias origens: desde um membro doente da equipe até a falta de um recurso crucial, o apoio insuficiente da gerência, ou mesmo um ambiente de trabalho desconfortável e com intermitências sistêmicas. Se algo está obstruindo a produtividade da equipe, isso é considerado um impedimento.

@@ -1,7 +1,8 @@
 ---
 title: "Iniciativa Refinamento"
 nav_order: 6
-parent: "O que é Scrum?"
+parent: "Scrum"
+grand_parent: "Conceitos Ágeis"
 ---
 
 [MuraL](https://app.mural.co/t/personallife0912/m/personallife0912/1671831121520/6f990a6cc1a0c2eb305b101cc20824da0ddaff9b?sender=u4ed12f89945b0e4998e13064)

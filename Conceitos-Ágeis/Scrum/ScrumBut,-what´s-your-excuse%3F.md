@@ -1,7 +1,8 @@
 ---
 title: "ScrumBut, what´s your excuse?"
 nav_order: 12
-parent: "O que é Scrum?"
+parent: "Scrum"
+grand_parent: "Conceitos Ágeis"
 ---
 
 [What is Scrumbut?](https://www.scrum.org/resources/what-scrumbut)
