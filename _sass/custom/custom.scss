@@ -1,0 +1,127 @@
+// Layout: sidebar esquerda fixa + centro fluido + "Nesta página" (TOC) à
+// direita — commands/site/01-layout-sidebar-e-centro-fluido.md e
+// commands/site/02-table-of-contents-nesta-pagina.md.
+//
+// Portado diretamente da arquitetura final validada no projeto Universalismo
+// (uc-osasco/_sass/custom/custom.scss), depois de 5 iterações lá até acertar:
+// mexer no elemento errado (.main-content-wrap em vez de .side-bar), depender
+// de margin:auto/align-self ambíguos, e por fim travar o centro num
+// max-width fixo antes de deixá-lo fluido. Aqui entra já correto, sem repetir
+// os passos intermediários.
+//
+// Colors hardcoded para bater com _sass/color_schemes/dark.scss do
+// just-the-docs, já que este site fixa color_scheme: dark em _config.yml.
+$u-muted: #9d99a3;
+$u-accent: #8f7bf2; // purple-000, clareado para contraste em fundo escuro
+$u-body: #e6e1e8; // grey-lt-300
+
+$u-nav-width: 260px;
+$u-prose-max: 60rem; // largura de leitura confortável para texto corrido
+$u-toc-width: 240px;
+$u-layout-gutter: 40px;
+$u-toc-breakpoint: 87.5em; // ~1400px: espaço suficiente para menu + leitura + TOC
+
+@media (min-width: 64em) {
+  .side-bar {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: $u-nav-width !important;
+    min-width: $u-nav-width !important;
+  }
+
+  .main {
+    margin: 0 !important;
+    margin-left: $u-nav-width !important;
+    width: calc(100% - #{$u-nav-width}) !important;
+    max-width: none !important;
+  }
+
+  .main-content-wrap {
+    margin: 0 !important;
+    max-width: none !important;
+    padding-left: $u-layout-gutter !important;
+    padding-right: $u-layout-gutter !important;
+  }
+
+  // Cards, tabelas e outros blocos continuam de largura livre; só o texto
+  // corrido ganha um teto de leitura.
+  .main-content > p,
+  .main-content > ul,
+  .main-content > ol,
+  .main-content > blockquote {
+    max-width: $u-prose-max;
+  }
+}
+
+@media (min-width: $u-toc-breakpoint) {
+  body.has-site-toc .main-content-wrap {
+    padding-right: $u-toc-width + ($u-layout-gutter * 2) !important;
+  }
+}
+
+// "Nesta página" — gerado em assets/js/toc.js a partir dos h2/h3 da página
+// (ver _includes/head_custom.html). Ausente do DOM (e da classe
+// `has-site-toc` no body) em páginas com poucas seções.
+#site-toc {
+  position: fixed;
+  top: 40px;
+  right: $u-layout-gutter;
+  display: none;
+  width: $u-toc-width;
+  max-height: calc(100vh - 80px);
+  overflow-y: auto;
+
+  @media (min-width: $u-toc-breakpoint) {
+    display: block;
+  }
+
+  .site-toc-title {
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: $u-muted;
+    margin: 0 0 10px;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    margin: 0;
+  }
+
+  a {
+    display: block;
+    padding: 5px 0 5px 10px;
+    font-size: 0.82rem;
+    line-height: 1.4;
+    color: $u-body;
+    text-decoration: none;
+    border-left: 2px solid transparent;
+
+    &:hover,
+    &:focus-visible {
+      color: $u-accent;
+      border-left-color: $u-accent;
+      text-decoration: none;
+    }
+  }
+
+  .site-toc-h3 a {
+    padding-left: 22px;
+    font-size: 0.78rem;
+    color: $u-muted;
+  }
+}
+
+// Evita que o clique numa âncora do TOC deixe o título colado no topo da
+// viewport (relevante sobretudo no menu mobile, que pode sobrepor o topo).
+h2[id],
+h3[id] {
+  scroll-margin-top: 16px;
+}
