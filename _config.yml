@@ -24,3 +24,6 @@ footer_content: "Agile Master — Thiago Luiz Mendes."
 exclude:
   - tools
   - README.md
+
+include:
+  - .attachments
