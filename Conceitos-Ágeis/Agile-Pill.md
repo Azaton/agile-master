@@ -24,7 +24,7 @@ concorrentes sobre o mesmo conceito.
 
 ## A coleção
 
-1. [Value Streams]({{ site.baseurl }}/Conceitos-Ágeis/Agile-Pill/01-%2D-O-QUE-SÃO-“VALUE-STREAMS”%3F.html)
+1. [Value Streams]({{ site.baseurl }}/Conceitos-Ágeis/Agile-Pill/01-%252D-O-QUE-SÃO-“VALUE-STREAMS”%253F.html)
 2. [Sprint Planning]({{ site.baseurl }}/Conceitos-Ágeis/Agile-Pill/02-Planning-Meeting.html)
 3. [One-Piece Flow]({{ site.baseurl }}/Conceitos-Ágeis/Agile-Pill/03-One-Piece-Flow.html)
 4. [Quebra de Épicos]({{ site.baseurl }}/Conceitos-Ágeis/Agile-Pill/04-Quebra-de-Epicos.html)
