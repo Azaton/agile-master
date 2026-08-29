@@ -18,4 +18,4 @@ Além desses tipos básicos, Python também suporta tipos compostos, como listas
 
 Aqui está a tabela completa com os tipos de dados comumente utilizados em Python:
 
-![image.png](/.attachments/image-524aea31-71b0-4847-8374-58a46309d7ad.png =500x)
+![image.png]({{ site.baseurl }}/.attachments/image-524aea31-71b0-4847-8374-58a46309d7ad.png =500x)

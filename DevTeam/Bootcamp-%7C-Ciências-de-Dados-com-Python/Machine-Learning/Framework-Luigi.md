@@ -30,4 +30,4 @@ Nesta visualização:
 
 Esse suporte visual auxilia os desenvolvedores e equipes de dados a entender o fluxo de suas operações, identificar gargalos e monitorar o progresso das tarefas em tempo real.
 
-![image.png](/.attachments/image-d5d1d5e0-1f27-4226-8497-8f6fa90125c8.png =700x)
+![image.png]({{ site.baseurl }}/.attachments/image-d5d1d5e0-1f27-4226-8497-8f6fa90125c8.png =700x)

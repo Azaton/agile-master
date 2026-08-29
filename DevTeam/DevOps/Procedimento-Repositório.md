@@ -33,7 +33,7 @@ Criar repositório público no GitHub.
 
 Abrir a pasta onde deseja colocar o repositório e no terminal, digite `$ git clone "git@github.com:Azaton/Nome_do_Repositório.git"`.
 
-![image.png](/.attachments/image-53953b63-a064-448d-b751-9e39f767d847.png =280x)
+![image.png]({{ site.baseurl }}/.attachments/image-53953b63-a064-448d-b751-9e39f767d847.png =280x)
 
 Verificar como está a conexão no diretório via comando  `$ cat config` para verificar se tem [core], [remote “origin”] e [branch “main”].
 

@@ -46,5 +46,5 @@ Como dito anteriormente, os enablers ou traduzindo para o português habilitador
 
 Em nosso dia a dia os enablers “competem” com a priorização das features dos mais diversos negócios. É muito importante saber como demonstrar o valor de todo esse suporte ao desenvolvimento/negócio.
 
-![image.png](/.attachments/image-7b247d57-976e-4192-aaef-7ed884a0d480.png)
+![image.png]({{ site.baseurl }}/.attachments/image-7b247d57-976e-4192-aaef-7ed884a0d480.png)
 

@@ -6,7 +6,7 @@ parent: "Leadership"
 
 Na abordagem do Lean Manufacturing, são frequentemente citados sete tipos de desperdícios, também conhecidos como "7 Mudas" ou "7 Desperdícios". São eles:
 
-![image.png](/.attachments/image-e99cc9d1-7943-4d12-8638-87c7467c4184.png =600x)
+![image.png]({{ site.baseurl }}/.attachments/image-e99cc9d1-7943-4d12-8638-87c7467c4184.png =600x)
 
 - Superprodução: Refere-se à produção em excesso além da demanda atual. Isso resulta em estoques desnecessários, ocupação de espaço, aumento do tempo de ciclo e custos adicionais.
 

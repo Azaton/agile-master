@@ -25,4 +25,4 @@ Durante a Sprint:
 
 Por meio de discussão com o Product Owner, os Developers selecionam itens do Product Backlog para incluir na Sprint atual. O Scrum Team pode <span style="color:blue;font-weight:bold">refinar</span> esses itens durante este processo, o que aumenta a compreensão e a confiança.
 
-![image.png](/.attachments/image-18af4325-6167-42af-97ec-a8e1befba1e1.png =800x)
+![image.png]({{ site.baseurl }}/.attachments/image-18af4325-6167-42af-97ec-a8e1befba1e1.png =800x)

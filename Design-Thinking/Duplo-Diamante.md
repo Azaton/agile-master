@@ -70,4 +70,4 @@ O **Duplo Diamante** é uma estrutura visual e estratégica desenvolvida pelo **
 
 
 
-![image.png](/.attachments/image-124488a8-1394-465d-9e49-27b6fb42e89b.png)
+![image.png]({{ site.baseurl }}/.attachments/image-124488a8-1394-465d-9e49-27b6fb42e89b.png)

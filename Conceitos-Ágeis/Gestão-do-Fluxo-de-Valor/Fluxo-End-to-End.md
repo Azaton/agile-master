@@ -4,6 +4,10 @@ nav_order: 2
 parent: "Gestão do Fluxo de Valor"
 ---
 
+# Fluxo End-to-End: da Estratégia ao Incremento
+
+## O que é
+
 Esta página mostra como [Upstream]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Upstream.html) e [Downstream]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Downstream.html) formam um único sistema de fluxo de valor. A intenção é enxergar a trajetória completa da demanda, desde estratégia e necessidades até entrega, feedback e nova priorização.
 
 Ver [Gestão do Fluxo de Valor]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor.html).
@@ -199,3 +203,7 @@ Por isso, uma visão end-to-end observa:
 - [Upstream]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Upstream.html)
 - [Downstream]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Downstream.html)
 - [Paralelo com SAFe]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Paralelo-com-SAFe.html)
+
+## Fontes
+
+- Ver [Gestão do Fluxo de Valor — Fontes e proveniência]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor.html#fontes-e-proveniência).

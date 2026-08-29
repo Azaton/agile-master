@@ -2,6 +2,7 @@
 title: "Círculos de Conexões"
 nav_order: 1
 parent: "Newsletter"
+grand_parent: "Management 3.0"
 ---
 
 # Uma nova prática: Connection Circles X Stakeholder Mapping

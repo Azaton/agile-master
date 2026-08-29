@@ -19,18 +19,18 @@ liderança, requisitos, segurança da informação e nuvem. Cada página descrev
 é, quem a emite, o que ela avalia e como se posiciona na sua trilha** — não é um registro de
 credenciais pessoais.
 
-- [Business Analysis](Certificações/Business-Analysis.html) — panorama das certificações de análise de negócio (IIBA, PMI, BCS).
-- [PSM I](Certificações/PSM-I.html) — Professional Scrum Master I (Scrum.org).
-- [PSM II](Certificações/PSM-II.html) — Professional Scrum Master II (Scrum.org).
-- [PSPO I](Certificações/PSPO-I.html) — Professional Scrum Product Owner I (Scrum.org).
-- [PSPO II](Certificações/PSPO-II.html) — Professional Scrum Product Owner II (Scrum.org).
-- [PAL I](Certificações/PAL-I.html) — Professional Agile Leadership I (Scrum.org).
-- [PAL-EBM](Certificações/PAL-EBM.html) — Professional Agile Leadership / Evidence-Based Management (Scrum.org).
-- [CPRE Foundation Level](Certificações/CPRE-FL.html) — Engenharia de Requisitos (IREB).
-- [Management 3.0](Certificações/Management-3-0.html) — liderança e gestão para ambientes ágeis.
-- [SFPC](Certificações/SFPC.html) — Scrum Foundation Professional Certificate (CertiProf).
-- [ISFS (ISO/IEC 27002)](Certificações/ISFS.html) — Information Security Foundation (EXIN).
-- [AZ-900](Certificações/AZ-900.html) — Microsoft Azure Fundamentals.
+- [Business Analysis]({{ site.baseurl }}/Certificações/Business-Analysis.html) — panorama das certificações de análise de negócio (IIBA, PMI, BCS).
+- [PSM I]({{ site.baseurl }}/Certificações/PSM-I.html) — Professional Scrum Master I (Scrum.org).
+- [PSM II]({{ site.baseurl }}/Certificações/PSM-II.html) — Professional Scrum Master II (Scrum.org).
+- [PSPO I]({{ site.baseurl }}/Certificações/PSPO-I.html) — Professional Scrum Product Owner I (Scrum.org).
+- [PSPO II]({{ site.baseurl }}/Certificações/PSPO-II.html) — Professional Scrum Product Owner II (Scrum.org).
+- [PAL I]({{ site.baseurl }}/Certificações/PAL-I.html) — Professional Agile Leadership I (Scrum.org).
+- [PAL-EBM]({{ site.baseurl }}/Certificações/PAL-EBM.html) — Professional Agile Leadership / Evidence-Based Management (Scrum.org).
+- [CPRE Foundation Level]({{ site.baseurl }}/Certificações/CPRE-FL.html) — Engenharia de Requisitos (IREB).
+- [Management 3.0]({{ site.baseurl }}/Certificações/Management-3-0.html) — trilha de credenciais e workshops oficiais.
+- [SFPC]({{ site.baseurl }}/Certificações/SFPC.html) — Scrum Foundation Professional Certificate (CertiProf).
+- [ISFS (ISO/IEC 27002)]({{ site.baseurl }}/Certificações/ISFS.html) — Information Security Foundation (EXIN).
+- [AZ-900]({{ site.baseurl }}/Certificações/AZ-900.html) — Microsoft Azure Fundamentals.
 
 ---
 

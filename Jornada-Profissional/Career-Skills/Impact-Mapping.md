@@ -4,7 +4,7 @@ nav_order: 7
 parent: "Career Skills"
 ---
 
-![image.png](/.attachments/image-5797a07c-b58c-4efb-89d2-7dfa0a154325.png =800x)
+![image.png]({{ site.baseurl }}/.attachments/image-5797a07c-b58c-4efb-89d2-7dfa0a154325.png =800x)
 
 "Impact Mapping" é uma técnica de planejamento estratégico que ajuda organizações, equipes e indivíduos a clarear os objetivos e a alinhar as atividades com esses objetivos, focando no impacto real que desejam alcançar. O skill de "impact mapping" refere-se à habilidade de conduzir esse processo de mapeamento de impacto, que envolve identificar o objetivo desejado, os atores (stakeholders ou usuários finais) que podem influenciar ou ser influenciados pelo objetivo, as ações que esses atores podem realizar para ajudar a atingir o objetivo e, finalmente, os entregáveis ou atividades que a equipe deve realizar para encorajar as ações dos atores.
 

@@ -5,6 +5,10 @@ parent: "Conceitos Ágeis"
 has_children: true
 ---
 
+# Gestão do Fluxo de Valor: Upstream e Downstream
+
+## Visão geral
+
 Gestão do fluxo de valor é uma forma de observar como uma necessidade percorre uma organização — da intenção estratégica até a entrega e o aprendizado gerado pelo uso da solução.
 
 Neste modelo, o fluxo é organizado em dois grandes subsistemas que funcionam de maneira contínua e simultânea:
@@ -193,7 +197,7 @@ O pensamento Kanban fornece conceitos essenciais para este modelo: visualizar tr
 
 ### Scrum
 
-[Scrum]({{ site.baseurl }}/Conceitos-Ágeis/Scrum-+-Kanban.html) pode estruturar parte do downstream por meio de ciclos de inspeção e adaptação. Refinamento do Product Backlog contribui para o upstream próximo ao time, mas não representa sozinho todo o upstream organizacional.
+Scrum pode estruturar parte do downstream por meio de ciclos de inspeção e adaptação. Refinamento do Product Backlog contribui para o upstream próximo ao time, mas não representa sozinho todo o upstream organizacional.
 
 ### SAFe
 
@@ -244,9 +248,16 @@ Sintomas comuns de desequilíbrio incluem:
 
 A resposta não é criar mais documentação. É melhorar o **sistema de decisão, preparação, compromisso, execução e feedback**.
 
-## Páginas desta seção
+## Páginas relacionadas
 
 - [Upstream]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Upstream.html)
 - [Downstream]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Downstream.html)
 - [Fluxo End to End]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Fluxo-End-to-End.html)
 - [Paralelo com SAFe]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Paralelo-com-SAFe.html)
+- Estudos futuros: *Flight Levels*, *Kanban*, *Definition of Ready*, *Lean Portfolio Management* e *Value Stream Management*.
+
+## Fontes e proveniência
+
+- Material visual fornecido pelo usuário em 2026-08-16, contendo um fluxo organizacional com estratégia, priorização, descoberta, refinamento de negócio, refinamento técnico, estimativas, backlog mínimo e execução. O conteúdo desta base foi generalizado e não preserva identificadores organizacionais.
+- Síntese e curadoria desenvolvidas a partir desse material e da discussão sobre gestão de fluxo, sem reproduzir um método proprietário.
+- Para o paralelo com SAFe, foram consultadas páginas oficiais do Scaled Agile Framework sobre Strategic Themes, Portfolio Backlog/Kanban, Continuous Exploration, Continuous Integration, Continuous Deployment, Release on Demand e Inspect & Adapt. Ver referências específicas em [Paralelo com SAFe]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Paralelo-com-SAFe.html).

@@ -4,6 +4,10 @@ nav_order: 1
 parent: "Gestão do Fluxo de Valor"
 ---
 
+# Downstream
+
+## O que é
+
 Downstream é o subsistema do fluxo de valor em que trabalho já priorizado e suficientemente preparado é transformado em solução real, integrada, validada e entregue.
 
 Se o upstream trabalha principalmente com **redução de incerteza**, o downstream trabalha principalmente com **execução sob compromisso**.
@@ -175,3 +179,7 @@ Quanto mais volátil o contexto, maior tende a ser o desperdício causado por re
 - [Upstream]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Upstream.html)
 - [Fluxo End to End]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Fluxo-End-to-End.html)
 - [Paralelo com SAFe]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Paralelo-com-SAFe.html)
+
+## Fontes
+
+- Ver [Gestão do Fluxo de Valor — Fontes e proveniência]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor.html#fontes-e-proveniência).

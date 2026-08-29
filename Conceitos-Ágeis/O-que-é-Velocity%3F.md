@@ -16,6 +16,6 @@ Com esse conhecimento em mãos, você pode planejar projetos e prever quanto tra
 - Utilizamos a sequência Fibonacci como base / medida.
 - Um item de 21 pontos é grande e quebramos em dois PBIs.
 
-![image.png](/.attachments/image-0316bffa-c5b2-4472-9b5b-5d26256f28d8.png =490x)
+![image.png]({{ site.baseurl }}/.attachments/image-0316bffa-c5b2-4472-9b5b-5d26256f28d8.png =490x)
 
 _**Observação:** Não se compara Story Point com Horas. A tabela é um exercício prático, para educação._

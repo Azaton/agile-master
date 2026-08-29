@@ -6,7 +6,7 @@ parent: "SAFe"
 
 A Agilidade Empresarial refere-se à capacidade de uma organização de adaptar-se rapidamente a mudanças no mercado e no ambiente de negócios, responder de forma flexível a desafios e oportunidades, e entregar valor aos clientes de forma eficiente e eficaz. No contexto do SAFe, a Agilidade Empresarial abrange não apenas os aspectos técnicos do desenvolvimento de produtos e serviços, mas também as práticas organizacionais, a cultura e a liderança que permitem essa adaptabilidade e resposta rápida.
 
-![image.png](/.attachments/image-b28a5c7b-049e-4cde-9f21-59fa55b95514.png)
+![image.png]({{ site.baseurl }}/.attachments/image-b28a5c7b-049e-4cde-9f21-59fa55b95514.png)
 
 Sim, o conceito de "Business Agility" (Agilidade Empresarial) é central no SAFe (Scaled Agile Framework), especialmente a partir do SAFe 5.0 e continua sendo fundamental na versão 6.0. A Agilidade Empresarial refere-se à capacidade de uma organização de adaptar-se rapidamente a mudanças no mercado e no ambiente de negócios, responder de forma flexível a desafios e oportunidades, e entregar valor aos clientes de forma eficiente e eficaz. No contexto do SAFe, a Agilidade Empresarial abrange não apenas os aspectos técnicos do desenvolvimento de produtos e serviços, mas também as práticas organizacionais, a cultura e a liderança que permitem essa adaptabilidade e resposta rápida.
 

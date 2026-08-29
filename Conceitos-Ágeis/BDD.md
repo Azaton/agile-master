@@ -26,7 +26,7 @@ Os principais benefícios do BDD incluem:
 - Redução de custos, já que os erros são identificados e corrigidos mais cedo no ciclo de desenvolvimento.
 
 
-![image.png](/.attachments/image-15619c87-0ccc-48a4-956f-3a652b998994.png =450x)
+![image.png]({{ site.baseurl }}/.attachments/image-15619c87-0ccc-48a4-956f-3a652b998994.png =450x)
 
 
 # Outras Narrativas
@@ -36,7 +36,7 @@ BDD é uma técnica de Desenvolvimento Ágil que visa integrar regras de negóci
 
 # BDD & TDD
 
-![image.png](/.attachments/image-5bf2249c-951a-46bd-86b9-64361055a854.png =400x)
+![image.png]({{ site.baseurl }}/.attachments/image-5bf2249c-951a-46bd-86b9-64361055a854.png =400x)
 
 O BDD e TDD são duas abordagens para desenvolvimento de software que enfatizam a importância dos testes automatizados. A principal diferença entre BDD e TDD é o foco.
 

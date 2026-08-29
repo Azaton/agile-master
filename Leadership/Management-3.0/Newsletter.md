@@ -2,6 +2,7 @@
 title: "Newsletter"
 nav_order: 2
 parent: "Management 3.0"
+grand_parent: "Leadership"
 has_children: true
 ---
 

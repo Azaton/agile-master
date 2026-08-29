@@ -4,6 +4,10 @@ nav_order: 3
 parent: "Gestão do Fluxo de Valor"
 ---
 
+# Upstream, Downstream e SAFe
+
+## O que é
+
 Esta página compara o modelo conceitual de [Upstream]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Upstream.html)/[Downstream]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Downstream.html) com elementos do **SAFe (Scaled Agile Framework)**.
 
 O paralelo é útil porque os dois procuram conectar estratégia e execução em escala, mas **não existe equivalência formal termo a termo**.
@@ -11,7 +15,7 @@ O paralelo é útil porque os dois procuram conectar estratégia e execução em
 - upstream/downstream é uma lente de fluxo;
 - SAFe é um framework estruturado de organização e entrega em escala.
 
-Ver [Gestão do Fluxo de Valor]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor.html). Para uma introdução ao framework em si, ver [SAFe]({{ site.baseurl }}/Ágil-em-Escala/SAFe.html), em Ágil em Escala.
+Ver [Gestão do Fluxo de Valor]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor.html).
 
 ## O problema sistêmico em comum
 
@@ -231,3 +235,7 @@ Flight Levels é um estudo complementar importante porque também separa preocup
 - Scaled Agile Framework — Release on Demand: https://framework.scaledagile.com/release-on-demand
 - Scaled Agile Framework — Team Backlog: https://framework.scaledagile.com/team-backlog
 - Scaled Agile Framework — Inspect & Adapt: https://framework.scaledagile.com/inspect-and-adapt
+
+## Fontes
+
+- Ver também [Gestão do Fluxo de Valor — Fontes e proveniência]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor.html#fontes-e-proveniência).

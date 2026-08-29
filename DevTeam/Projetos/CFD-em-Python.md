@@ -21,7 +21,7 @@ O resultado foi um HTML rodando local. Foi possível consumir os dados de uma ta
 O projeto foi organizado e documentado tecnicamente no Azure DevOps.
 
 
-![image.png](/.attachments/image-72d3ed9c-2632-4c4c-adc9-e0324eaa7020.png =500x)
+![image.png]({{ site.baseurl }}/.attachments/image-72d3ed9c-2632-4c4c-adc9-e0324eaa7020.png =500x)
 
 # Próximos Passos
 

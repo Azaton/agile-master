@@ -2,39 +2,61 @@
 title: "Management 3.0"
 nav_order: 9
 parent: "Certificações"
+has_children: true
 ---
 
-# Management 3.0
+# Certificações e workshops do Management 3.0
 
-## O que é
+Management 3.0 possui uma trilha de aprendizagem baseada em workshops oficiais, aplicação prática e, para quem deseja ensinar o conteúdo, licenciamento como facilitador.
 
-Programa de formação em liderança e gestão para ambientes ágeis e complexos, criado por
-**Jurgen Appelo** a partir do livro *Management 3.0* (2010). Diferente das certificações por exame,
-as credenciais de Management 3.0 são emitidas por **facilitadores licenciados** ao término de
-workshops oficiais (formato presencial ou online).
+É importante distinguir três elementos:
 
-## Público-alvo
+| Elemento | O que representa |
+|---|---|
+| **Certificate of Attendance** | Comprova a conclusão de um workshop oficial |
+| **Certificate of Practice** | Reconhece a aplicação e o compartilhamento de práticas em contexto profissional |
+| **Facilitator License** | Autoriza a oferta de workshops oficiais; não é apenas uma certificação de conhecimento |
 
-Líderes, gestores, Scrum Masters, Agile Coaches e qualquer pessoa responsável por times, cultura e
-sistemas de trabalho — a proposta é "gestão do sistema", não das pessoas.
+As credenciais não são normalmente obtidas por uma prova com nota de corte. Nos workshops, o certificado é concedido após a participação e a avaliação do evento. Já o Certificate of Practice exige evidências de aplicação.
 
-## O que o conteúdo cobre
+## Trilha principal
 
-Organizado em seis visões:
+1. Participar do Foundation Workshop ou, em determinados caminhos, do Agility in HR Workshop.
+2. Receber o Certificate of Attendance correspondente.
+3. Aprofundar conhecimentos em workshops especializados.
+4. Aplicar práticas e compartilhar experiências para solicitar o Certificate of Practice.
+5. Opcionalmente, atender aos requisitos para uma licença de Facilitator.
 
-- **Energize People** — motivação intrínseca e engajamento;
-- **Empower Teams** — delegação, autonomia e autorganização;
-- **Align Constraints** — propósito, valores e metas compartilhadas;
-- **Develop Competence** — desenvolvimento de competências do time;
-- **Grow Structure** — estruturas organizacionais que favorecem colaboração;
-- **Improve Everything** — melhoria contínua e gestão da mudança.
+## Credenciais principais
 
-Práticas conhecidas do programa: Moving Motivators, Delegation Poker e Delegation Board, Kudo Cards,
-Personal Maps, Happiness Door e Improvement Dialogues.
+- [Certificate of Attendance]({{ site.baseurl }}/Certificações/Management-3-0/Certificate-of-Attendance.html)
+- [Certificate of Practice — Practitioner]({{ site.baseurl }}/Certificações/Management-3-0/Certificate-of-Practice.html)
 
-## Formato e credenciais
+## Workshops oficiais
 
-Participação em workshop oficial com facilitador licenciado. Há o **Foundation Workshop** e módulos
-como *Agile Team Leadership* e *Agile Change Leadership*, além do caminho para se tornar facilitador.
-Não há prova proctorada nem nota de corte. Ver o site oficial:
-[management30.com](https://management30.com/).
+- [Foundation Workshop]({{ site.baseurl }}/Certificações/Management-3-0/Foundation-Workshop.html)
+- [Agility in HR Workshop]({{ site.baseurl }}/Certificações/Management-3-0/Agility-in-HR.html)
+- [Agile Change Leadership Workshop]({{ site.baseurl }}/Certificações/Management-3-0/Agile-Change-Leadership.html)
+- [Agile Co-Creation Leadership Workshop]({{ site.baseurl }}/Certificações/Management-3-0/Agile-Co-Creation-Leadership.html)
+- [Agile Team Leadership Workshop]({{ site.baseurl }}/Certificações/Management-3-0/Agile-Team-Leadership.html)
+- [Agile People Leadership Workshop]({{ site.baseurl }}/Certificações/Management-3-0/Agile-People-Leadership.html)
+
+## Caminho para ensinar
+
+- [Management 3.0 Facilitator License]({{ site.baseurl }}/Certificações/Management-3-0/Facilitator-License.html)
+
+## Workshops personalizados e históricos
+
+Facilitadores licenciados podem oferecer workshops personalizados compostos por módulos e práticas oficiais. O certificado identifica o workshop específico realizado.
+
+Algumas formações antigas, como Fundamentals Plus, foram descontinuadas. Certificados já emitidos permanecem válidos, mas essas formações não devem ser apresentadas como oferta atual.
+
+## Conteúdo relacionado
+
+Para conhecer os princípios, práticas e visão de liderança do modelo, consulte [Management 3.0 em Leadership]({{ site.baseurl }}/Leadership/Management-3.0.html).
+
+## Fontes oficiais
+
+- https://management30.com/certifications/
+- https://management30.com/workshops/
+- https://management30.com/certificate-of-practice/

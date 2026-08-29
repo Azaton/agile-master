@@ -12,7 +12,7 @@ O "Arquétipo da Ambidestria" refere-se a uma estratégia organizacional em que 
 
 A ambidestria organizacional é importante porque as empresas precisam encontrar o equilíbrio certo entre explorar novas possibilidades e aprimorar o que já têm. Se uma organização se concentrar apenas na exploração, pode desperdiçar recursos em ideias incertas e correr riscos excessivos. Por outro lado, se focar exclusivamente na explotação, pode se tornar obsoleta e perder competitividade no longo prazo.
 
-![image.png](/.attachments/image-170adc52-f40b-450d-98e1-d38d1e9f7ac4.png =550x)
+![image.png]({{ site.baseurl }}/.attachments/image-170adc52-f40b-450d-98e1-d38d1e9f7ac4.png =550x)
 
 As empresas que abraçam o arquétipo da ambidestria são aquelas que conseguem ser ágeis o suficiente para inovar e se adaptar às mudanças do mercado, ao mesmo tempo em que são eficientes na execução e na entrega consistente de seus produtos ou serviços.
 

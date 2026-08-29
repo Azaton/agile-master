@@ -4,7 +4,7 @@ nav_order: 6
 parent: "Design Thinking"
 ---
 
-![image.png](/.attachments/image-342c6a11-7576-4f4b-84b5-3e1bf06abb17.png)
+![image.png]({{ site.baseurl }}/.attachments/image-342c6a11-7576-4f4b-84b5-3e1bf06abb17.png)
 
 Isso está ligado a [entropia](https://pt.wikipedia.org/wiki/Entropia), de quantas maneiras as partículas (átomos, íons ou moléculas) podem se distribuir em níveis energéticos quantizados, incluindo translacionais, vibracionais, rotacionais, e eletrônicos. 
 

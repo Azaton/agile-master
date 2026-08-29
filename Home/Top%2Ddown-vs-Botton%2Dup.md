@@ -8,7 +8,9 @@ parent: "Home"
 
 Esta página fala sobre duas formas de gerir projetos. Uma abordagem mais introdutória pode ser encontra no site da [Atlassian - Agile Iron Triangle](https://www.atlassian.com/br/agile/agile-at-scale/agile-iron-triangle)
 
-![image.png](/.attachments/image-c8d2be2b-4edc-4902-aa56-9597f73778b5.png =600x)
+![image.png]({{ site.baseurl }}/.attachments/image-c8d2be2b-4edc-4902-aa56-9597f73778b5.png =600x)
+
+![Top-down vs Bottom-up]({{ site.baseurl }}/.attachments/top-botw-up_img_verdelaranja.png =600x)
 
 # Gestão de Projetos do Triângulo de Ferro (Tradicional)
 

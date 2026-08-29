@@ -4,13 +4,48 @@ nav_order: 4
 parent: "Gestão do Fluxo de Valor"
 ---
 
+# Upstream
+
+## O que é
+
 Upstream é o subsistema do fluxo de valor voltado a **reduzir incerteza antes do compromisso de execução**. Ele transforma necessidades, problemas, oportunidades e ideias em trabalho suficientemente compreendido, priorizado e preparado para ser puxado pelo [Downstream]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Downstream.html).
+
+O upstream é a fase inicial desse fluxo, onde ocorrem atividades essenciais de planejamento, estratégia e definição de direção.
+
+Nas metodologias ágeis, o upstream é onde as bases são estabelecidas – é onde a equipe define os objetivos do projeto, estabelece requisitos claros e cria uma visão geral do trabalho a ser realizado. Em essência, o upstream é a raiz do sucesso de um projeto ágil.
 
 A pergunta dominante não é apenas "como construir?", mas principalmente:
 
 > **Qual problema merece atenção, por que agora e o que precisamos aprender antes de comprometer capacidade?**
 
 Ver [Gestão do Fluxo de Valor]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor.html).
+
+## Diferença entre Upstream e Downstream
+
+Para entender plenamente o upstream, é importante distinguir os termos **upstream** e **downstream**.
+
+O [Downstream]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Downstream.html) é a fase subsequente do fluxo de trabalho, onde ocorrem a execução, os testes, a integração e a entrega. Enquanto o downstream se concentra na implementação do que foi planejado e suficientemente definido no upstream, o upstream está focado em preparar o terreno para que a execução aconteça com maior clareza, menor incerteza e melhores condições de fluxo.
+
+Em termos simples:
+
+```text
+UPSTREAM
+Entender → Priorizar → Descobrir → Refinar → Preparar
+
+                         ↓ ponto de compromisso
+
+DOWNSTREAM
+Planejar → Construir → Testar → Integrar → Entregar
+```
+
+A diferença central está no tipo de problema que cada sistema procura resolver:
+
+- **Upstream:** reduz incerteza e prepara decisões e trabalho futuro.
+- **Downstream:** transforma trabalho preparado em incremento e valor entregue.
+
+Essa distinção é importante para manter clareza sobre as atividades e responsabilidades ao longo do fluxo, criar entendimento comum sobre os objetivos e evitar que o time de execução precise absorver continuamente decisões, descobertas e definições que poderiam ter sido tratadas antes do ponto de compromisso.
+
+Isso não significa que upstream e downstream funcionem de forma isolada ou estritamente sequencial. Em um fluxo saudável, ambos operam de maneira contínua e conectada: enquanto o downstream executa e gera feedback, o upstream prepara e ajusta os próximos itens com base no aprendizado produzido pela própria entrega.
 
 ## Três horizontes do upstream
 
@@ -209,3 +244,7 @@ Kanban pode ser usado diretamente no upstream para visualizar estados de descobe
 - [Downstream]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Downstream.html)
 - [Fluxo End to End]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Fluxo-End-to-End.html)
 - [Paralelo com SAFe]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Paralelo-com-SAFe.html)
+
+## Fontes
+
+- Ver [Gestão do Fluxo de Valor — Fontes e proveniência]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor.html#fontes-e-proveniência).

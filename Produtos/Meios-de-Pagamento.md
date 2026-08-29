@@ -32,4 +32,4 @@ Entender a cadeia completa de pagamentos é crucial para identificar oportunidad
 
 # Fluxo de Baixa Fidelidade
 
-![MyCareer_2023-08-02_12-32-11.png](/.attachments/MyCareer_2023-08-02_12-32-11-e286e277-7efd-4f90-9d81-d279f4d2e470.png)
+![MyCareer_2023-08-02_12-32-11.png]({{ site.baseurl }}/.attachments/MyCareer_2023-08-02_12-32-11-e286e277-7efd-4f90-9d81-d279f4d2e470.png)

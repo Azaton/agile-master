@@ -22,4 +22,4 @@ Um item fora destes critérios, provavelmente não tem qualidade suficiente.
 - Colabora com o controle e rastreabilidade de validações em outros sistemas.
 
 
-![image.png](/.attachments/image-6287cc2f-4734-4135-b67f-9141b50c6c93.png)
+![image.png]({{ site.baseurl }}/.attachments/image-6287cc2f-4734-4135-b67f-9141b50c6c93.png)
