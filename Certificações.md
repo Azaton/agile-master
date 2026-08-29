@@ -12,6 +12,28 @@ has_children: true
 
 ---
 
+## Nesta seção
+
+Páginas de referência sobre certificações reconhecidas de mercado nas áreas de agilidade, produto,
+liderança, requisitos, segurança da informação e nuvem. Cada página descreve **o que a certificação
+é, quem a emite, o que ela avalia e como se posiciona na sua trilha** — não é um registro de
+credenciais pessoais.
+
+- [Business Analysis](Certificações/Business-Analysis.html) — panorama das certificações de análise de negócio (IIBA, PMI, BCS).
+- [PSM I](Certificações/PSM-I.html) — Professional Scrum Master I (Scrum.org).
+- [PSM II](Certificações/PSM-II.html) — Professional Scrum Master II (Scrum.org).
+- [PSPO I](Certificações/PSPO-I.html) — Professional Scrum Product Owner I (Scrum.org).
+- [PSPO II](Certificações/PSPO-II.html) — Professional Scrum Product Owner II (Scrum.org).
+- [PAL I](Certificações/PAL-I.html) — Professional Agile Leadership I (Scrum.org).
+- [PAL-EBM](Certificações/PAL-EBM.html) — Professional Agile Leadership / Evidence-Based Management (Scrum.org).
+- [CPRE Foundation Level](Certificações/CPRE-FL.html) — Engenharia de Requisitos (IREB).
+- [Management 3.0](Certificações/Management-3-0.html) — liderança e gestão para ambientes ágeis.
+- [SFPC](Certificações/SFPC.html) — Scrum Foundation Professional Certificate (CertiProf).
+- [ISFS (ISO/IEC 27002)](Certificações/ISFS.html) — Information Security Foundation (EXIN).
+- [AZ-900](Certificações/AZ-900.html) — Microsoft Azure Fundamentals.
+
+---
+
 As certificações da Scrum.org são um conjunto de credenciais que visam validar o conhecimento e a compreensão dos profissionais sobre o Scrum e suas práticas ágeis. Essas certificações são oferecidas pela organização Scrum.org, fundada por Ken Schwaber, um dos criadores do Scrum.
 
 Elas são reconhecidas internacionalmente e são amplamente respeitadas no setor de desenvolvimento de software e gerenciamento de projetos ágeis.
