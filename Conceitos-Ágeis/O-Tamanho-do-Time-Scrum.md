@@ -26,7 +26,7 @@ Vamos analisar:
 * Se um Time Scrum possui 6 pessoas, então teremos 15 Canais de Comunicação.
 * Se um Time Scrum possui 13 pessoas, então teremos 78 Canais de Comunicação.
 
-![image.png]({{ site.baseurl }}/.attachments/image-a56da7a3-ec3d-4248-92ab-67fbb3350b07.png =950x)
+![Tamanho dos Times Scrum]({{ site.baseurl }}/.attachments/image-a56da7a3-ec3d-4248-92ab-67fbb3350b07.png)
 _Exercício desenvolvido durante o curso preparatório PSM I_
 
 
