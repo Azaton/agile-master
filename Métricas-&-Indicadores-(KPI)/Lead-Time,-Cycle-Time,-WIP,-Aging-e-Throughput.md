@@ -26,3 +26,9 @@ De forma abrangente, apresento uma reflexão sobre alguns indicadores (KPIs) e c
 - A GMUD na Gestão de Mudança abrange atividades como análise de impacto, comunicação, treinamento, engajamento das partes interessadas, planejamento e implementação de estratégias de mudança. Ela visa minimizar resistências, mitigar riscos e garantir a adoção efetiva das mudanças por parte dos colaboradores e da organização como um todo. No contexto da Tecnologia da Informação (TI), a GMUD está frequentemente associada a implantações em ambientes de produção, como a implementação de novos sistemas, atualizações de infraestrutura ou adoção de novas tecnologias.
 
 ![image](https://user-images.githubusercontent.com/105720235/208201000-fce552ae-daeb-48f6-abde-2a14b02cf5ac.png)
+
+## Relação com release e deployment
+
+Release e deployment são pontos possíveis de término ou de observação das métricas de fluxo, mas não devem ser tratados como sinônimos. Um item pode estar tecnicamente concluído, incluído em uma release, implantado em produção e disponibilizado ao usuário em momentos diferentes.
+
+Por isso, Lead Time e Cycle Time somente são comparáveis quando seus pontos de início e fim estão explícitos. Para compreender essas fronteiras, ver [Release, Deploy e Entrega de Valor]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Release-Deploy-e-Entrega-de-Valor.html).

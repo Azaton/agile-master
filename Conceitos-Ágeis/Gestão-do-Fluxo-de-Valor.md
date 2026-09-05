@@ -253,6 +253,7 @@ A resposta não é criar mais documentação. É melhorar o **sistema de decisã
 - [Upstream]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Upstream.html)
 - [Downstream]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Downstream.html)
 - [Fluxo End to End]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Fluxo-End-to-End.html)
+- [Release, Deploy e Entrega de Valor]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Release-Deploy-e-Entrega-de-Valor.html)
 - [Paralelo com SAFe]({{ site.baseurl }}/Conceitos-Ágeis/Gestão-do-Fluxo-de-Valor/Paralelo-com-SAFe.html)
 - Estudos futuros: *Flight Levels*, *Kanban*, *Definition of Ready*, *Lean Portfolio Management* e *Value Stream Management*.
 
