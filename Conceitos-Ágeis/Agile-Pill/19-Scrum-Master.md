@@ -1,5 +1,5 @@
 ---
-title: "19 - Scrum Master"
+title: "19 Scrum Master"
 nav_order: 19
 parent: "Agile Pill"
 ---

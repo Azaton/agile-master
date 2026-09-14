@@ -1,6 +1,6 @@
 ---
 title: "Projetos & Business Cases"
-nav_order: 3
+nav_order: 6
 parent: "Portfólio Profissional"
 has_children: true
 ---

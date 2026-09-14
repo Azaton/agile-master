@@ -1,8 +1,7 @@
 ---
 title: "Agile Change Leadership"
-nav_order: 5
-parent: "Management 3.0"
-grand_parent: "Certificações"
+nav_order: 1
+parent: "Management 3 0"
 ---
 
 # Agile Change Leadership Workshop

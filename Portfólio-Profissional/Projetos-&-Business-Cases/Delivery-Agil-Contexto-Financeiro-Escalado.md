@@ -1,6 +1,6 @@
 ---
-title: "Delivery Ágil em Contexto Financeiro Escalado"
-nav_order: 2
+title: "Delivery Agil Contexto Financeiro Escalado"
+nav_order: 3
 parent: "Projetos & Business Cases"
 ---
 

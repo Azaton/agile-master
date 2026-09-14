@@ -1,8 +1,7 @@
 ---
 title: "Certificate of Attendance"
-nav_order: 1
-parent: "Management 3.0"
-grand_parent: "Certificações"
+nav_order: 6
+parent: "Management 3 0"
 ---
 
 # Certificate of Attendance

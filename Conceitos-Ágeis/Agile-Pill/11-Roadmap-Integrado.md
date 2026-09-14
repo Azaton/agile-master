@@ -1,5 +1,5 @@
 ---
-title: "11 - Roadmap Integrado"
+title: "11 Roadmap Integrado"
 nav_order: 11
 parent: "Agile Pill"
 ---

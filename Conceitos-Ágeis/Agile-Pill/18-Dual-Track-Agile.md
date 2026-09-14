@@ -1,5 +1,5 @@
 ---
-title: "18 - Dual Track Agile"
+title: "18 Dual Track Agile"
 nav_order: 18
 parent: "Agile Pill"
 ---

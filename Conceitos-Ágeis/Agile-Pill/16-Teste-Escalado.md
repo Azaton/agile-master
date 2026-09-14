@@ -1,5 +1,5 @@
 ---
-title: "16 - Teste Escalado"
+title: "16 Teste Escalado"
 nav_order: 16
 parent: "Agile Pill"
 ---

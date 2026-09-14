@@ -2,7 +2,6 @@
 title: "Pré Review (ou Dry Run Review)"
 nav_order: 9
 parent: "Scrum"
-grand_parent: "Conceitos Ágeis"
 ---
 
 ✅ **Validação Técnica**

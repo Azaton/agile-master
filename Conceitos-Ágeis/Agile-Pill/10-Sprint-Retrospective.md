@@ -1,5 +1,5 @@
 ---
-title: "10 - Retrospective Meeting"
+title: "10 Sprint Retrospective"
 nav_order: 10
 parent: "Agile Pill"
 ---

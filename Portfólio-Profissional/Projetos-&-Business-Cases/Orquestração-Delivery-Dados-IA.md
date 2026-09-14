@@ -1,6 +1,6 @@
 ---
-title: "Orquestração de Delivery em Dados & IA"
-nav_order: 1
+title: "Orquestração Delivery Dados IA"
+nav_order: 4
 parent: "Projetos & Business Cases"
 ---
 

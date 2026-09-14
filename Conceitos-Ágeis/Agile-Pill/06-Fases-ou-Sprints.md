@@ -1,5 +1,5 @@
 ---
-title: "06 - Fases ou Sprints?"
+title: "06 Fases ou Sprints"
 nav_order: 6
 parent: "Agile Pill"
 ---

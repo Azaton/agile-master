@@ -1,5 +1,5 @@
 ---
-title: "12 - Value Stream Mapping"
+title: "12 Value Stream Mapping"
 nav_order: 12
 parent: "Agile Pill"
 ---

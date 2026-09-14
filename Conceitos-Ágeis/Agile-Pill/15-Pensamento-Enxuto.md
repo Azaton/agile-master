@@ -1,5 +1,5 @@
 ---
-title: "15 - Pensamento Enxuto"
+title: "15 Pensamento Enxuto"
 nav_order: 15
 parent: "Agile Pill"
 ---

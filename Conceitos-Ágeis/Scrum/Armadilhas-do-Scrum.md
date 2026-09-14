@@ -2,7 +2,6 @@
 title: "Armadilhas do Scrum"
 nav_order: 2
 parent: "Scrum"
-grand_parent: "Conceitos Ágeis"
 ---
 
 Com base no que é comumente discutido na comunidade Agile e em relação ao Scrum.

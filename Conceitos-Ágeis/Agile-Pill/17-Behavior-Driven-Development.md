@@ -1,5 +1,5 @@
 ---
-title: "17 - Behavior-Driven Development"
+title: "17 Behavior Driven Development"
 nav_order: 17
 parent: "Agile Pill"
 ---

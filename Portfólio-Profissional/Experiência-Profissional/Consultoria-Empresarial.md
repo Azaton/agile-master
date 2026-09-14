@@ -1,6 +1,6 @@
 ---
-title: "Consultoria Empresarial e Soluções de Negócio"
-nav_order: 5
+title: "Consultoria Empresarial"
+nav_order: 3
 parent: "Experiência Profissional"
 ---
 

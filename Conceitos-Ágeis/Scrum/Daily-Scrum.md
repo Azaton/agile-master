@@ -2,7 +2,6 @@
 title: "Daily Scrum"
 nav_order: 4
 parent: "Scrum"
-grand_parent: "Conceitos Ágeis"
 ---
 
 **Daily Scrum**

@@ -2,7 +2,6 @@
 title: "Meta da Sprint"
 nav_order: 7
 parent: "Scrum"
-grand_parent: "Conceitos Ágeis"
 has_children: true
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: "Agile People Leadership"
-nav_order: 8
-parent: "Management 3.0"
-grand_parent: "Certificações"
+nav_order: 3
+parent: "Management 3 0"
 ---
 
 # Agile People Leadership Workshop

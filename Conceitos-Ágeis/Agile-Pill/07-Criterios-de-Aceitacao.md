@@ -1,5 +1,5 @@
 ---
-title: "07 - Critérios de Aceitação"
+title: "07 Criterios de Aceitacao"
 nav_order: 7
 parent: "Agile Pill"
 ---

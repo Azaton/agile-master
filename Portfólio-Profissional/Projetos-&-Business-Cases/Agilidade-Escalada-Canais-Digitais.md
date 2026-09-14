@@ -1,6 +1,6 @@
 ---
-title: "Agilidade Escalada em Canais Digitais Financeiros"
-nav_order: 3
+title: "Agilidade Escalada Canais Digitais"
+nav_order: 1
 parent: "Projetos & Business Cases"
 ---
 

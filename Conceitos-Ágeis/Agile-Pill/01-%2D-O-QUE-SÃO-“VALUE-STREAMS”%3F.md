@@ -1,5 +1,5 @@
 ---
-title: "01 - O que são Value Streams?"
+title: "01 - O QUE SÃO “VALUE STREAMS”?"
 nav_order: 1
 parent: "Agile Pill"
 ---

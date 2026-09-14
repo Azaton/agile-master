@@ -1,5 +1,5 @@
 ---
-title: "03 - One-Piece Flow"
+title: "03 One Piece Flow"
 nav_order: 3
 parent: "Agile Pill"
 ---

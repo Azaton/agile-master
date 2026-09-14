@@ -1,5 +1,5 @@
 ---
-title: "13 - Product Owner"
+title: "13 Product Owner"
 nav_order: 13
 parent: "Agile Pill"
 ---

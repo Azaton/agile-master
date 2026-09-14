@@ -1,5 +1,5 @@
 ---
-title: "04 - Quebra de Épicos"
+title: "04 Quebra de Epicos"
 nav_order: 4
 parent: "Agile Pill"
 ---

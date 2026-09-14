@@ -1,8 +1,7 @@
 ---
 title: "Facilitator License"
-nav_order: 9
-parent: "Management 3.0"
-grand_parent: "Certificações"
+nav_order: 8
+parent: "Management 3 0"
 ---
 
 # Management 3.0 Facilitator License

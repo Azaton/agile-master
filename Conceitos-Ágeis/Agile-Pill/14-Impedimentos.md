@@ -1,5 +1,5 @@
 ---
-title: "14 - Impedimentos"
+title: "14 Impedimentos"
 nav_order: 14
 parent: "Agile Pill"
 ---

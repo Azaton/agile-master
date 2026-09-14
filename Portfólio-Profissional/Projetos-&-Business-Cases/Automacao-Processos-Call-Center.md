@@ -1,6 +1,6 @@
 ---
-title: "Automação de Processos em Call Center"
-nav_order: 5
+title: "Automacao Processos Call Center"
+nav_order: 2
 parent: "Projetos & Business Cases"
 ---
 

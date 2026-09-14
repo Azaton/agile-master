@@ -1,6 +1,6 @@
 ---
-title: "PAL-EBM"
-nav_order: 7
+title: "PAL EBM"
+nav_order: 6
 parent: "Certificações"
 ---
 

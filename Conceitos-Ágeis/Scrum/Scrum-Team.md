@@ -2,7 +2,6 @@
 title: "Scrum Team"
 nav_order: 11
 parent: "Scrum"
-grand_parent: "Conceitos Ágeis"
 ---
 
 # Conceito de Scrum Team

@@ -17,3 +17,4 @@ Nesta seção:
   Integrações e Automações como camada inteligente sobre os sistemas oficiais.
 - [Profissões e Papéis](GenAI/Profissões-e-Papéis.html) — funções e especializações associadas à GenAI.
 - [Purple People](GenAI/Purple-People.html) — profissionais que conectam negócio, dados e tecnologia.
+- [Estudar Programação com IA sem Atrofiar o Aprendizado](GenAI/Estudar-Programação-com-IA-sem-Atrofiar-o-Aprendizado.html) — dificuldade desejável, cognitive offloading e técnicas práticas de estudo com IA.

@@ -1,5 +1,5 @@
 ---
-title: "08 - Desperdício"
+title: "08 Desperdicio"
 nav_order: 8
 parent: "Agile Pill"
 ---

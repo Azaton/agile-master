@@ -1,8 +1,7 @@
 ---
 title: "Agile Team Leadership"
-nav_order: 7
-parent: "Management 3.0"
-grand_parent: "Certificações"
+nav_order: 4
+parent: "Management 3 0"
 ---
 
 # Agile Team Leadership Workshop

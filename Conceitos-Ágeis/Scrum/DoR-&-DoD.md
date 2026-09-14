@@ -2,7 +2,6 @@
 title: "DoR & DoD"
 nav_order: 5
 parent: "Scrum"
-grand_parent: "Conceitos Ágeis"
 has_children: true
 ---
 

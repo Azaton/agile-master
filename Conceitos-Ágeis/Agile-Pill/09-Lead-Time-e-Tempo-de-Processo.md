@@ -1,5 +1,5 @@
 ---
-title: "09 - Lead Time x Process Time"
+title: "09 Lead Time e Tempo de Processo"
 nav_order: 9
 parent: "Agile Pill"
 ---

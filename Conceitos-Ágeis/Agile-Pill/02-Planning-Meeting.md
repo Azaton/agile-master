@@ -1,5 +1,5 @@
 ---
-title: "02 - Planning Meetings"
+title: "02 Planning Meeting"
 nav_order: 2
 parent: "Agile Pill"
 ---

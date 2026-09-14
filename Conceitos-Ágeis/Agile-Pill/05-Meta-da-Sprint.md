@@ -1,5 +1,5 @@
 ---
-title: "05 - Meta da Sprint"
+title: "05 Meta da Sprint"
 nav_order: 5
 parent: "Agile Pill"
 ---

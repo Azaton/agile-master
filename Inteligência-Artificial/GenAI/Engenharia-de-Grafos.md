@@ -1,6 +1,6 @@
 ---
 title: "Engenharia de Grafos"
-nav_order: 2
+nav_order: 1
 parent: "GenAI"
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: "Foundation Workshop"
-nav_order: 3
-parent: "Management 3.0"
-grand_parent: "Certificações"
+nav_order: 9
+parent: "Management 3 0"
 ---
 
 # Management 3.0 Foundation Workshop

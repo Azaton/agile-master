@@ -1,6 +1,6 @@
 ---
 title: "Certificações & Formação"
-nav_order: 5
+nav_order: 1
 parent: "Portfólio Profissional"
 ---
 

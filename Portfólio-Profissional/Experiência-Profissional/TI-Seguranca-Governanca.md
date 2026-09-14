@@ -1,5 +1,5 @@
 ---
-title: "TI, Segurança & Governança"
+title: "TI Seguranca Governanca"
 nav_order: 6
 parent: "Experiência Profissional"
 ---

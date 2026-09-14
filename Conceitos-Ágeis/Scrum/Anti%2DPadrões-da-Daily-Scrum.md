@@ -2,7 +2,6 @@
 title: "Anti Padrões da Daily Scrum"
 nav_order: 1
 parent: "Scrum"
-grand_parent: "Conceitos Ágeis"
 ---
 
 Daily Scrum Anti-Patterns e Como Melhorar

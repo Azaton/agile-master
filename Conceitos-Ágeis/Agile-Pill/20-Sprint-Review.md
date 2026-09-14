@@ -1,5 +1,5 @@
 ---
-title: "20 - Sprint Review Meeting"
+title: "20 Sprint Review"
 nav_order: 20
 parent: "Agile Pill"
 ---

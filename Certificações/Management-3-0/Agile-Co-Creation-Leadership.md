@@ -1,8 +1,7 @@
 ---
-title: "Agile Co-Creation Leadership"
-nav_order: 6
-parent: "Management 3.0"
-grand_parent: "Certificações"
+title: "Agile Co Creation Leadership"
+nav_order: 2
+parent: "Management 3 0"
 ---
 
 # Agile Co-Creation Leadership Workshop

@@ -1,8 +1,7 @@
 ---
-title: "Agility in HR Workshop"
-nav_order: 4
-parent: "Management 3.0"
-grand_parent: "Certificações"
+title: "Agility in HR"
+nav_order: 5
+parent: "Management 3 0"
 ---
 
 # Agility in HR Workshop

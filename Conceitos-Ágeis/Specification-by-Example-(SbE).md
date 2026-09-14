@@ -1,6 +1,6 @@
 ---
 title: "Specification by Example (SbE)"
-nav_order: 25
+nav_order: 26
 parent: "Conceitos Ágeis"
 ---
 

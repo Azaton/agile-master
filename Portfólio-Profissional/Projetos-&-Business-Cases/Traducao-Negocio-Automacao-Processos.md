@@ -1,6 +1,6 @@
 ---
-title: "Tradução de Negócio e Automação de Processos"
-nav_order: 4
+title: "Traducao Negocio Automacao Processos"
+nav_order: 5
 parent: "Projetos & Business Cases"
 ---
 

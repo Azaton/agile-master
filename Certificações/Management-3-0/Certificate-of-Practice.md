@@ -1,8 +1,7 @@
 ---
-title: "Certificate of Practice — Practitioner"
-nav_order: 2
-parent: "Management 3.0"
-grand_parent: "Certificações"
+title: "Certificate of Practice"
+nav_order: 7
+parent: "Management 3 0"
 ---
 
 # Certificate of Practice — Certified Management 3.0 Practitioner
