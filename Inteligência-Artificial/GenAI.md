@@ -15,6 +15,8 @@ Nesta seção:
   ferramentas, validações e decisões como uma rede explícita de trabalho.
 - [IA Operacional — Framework CHIA](GenAI/IA-Operacional-Framework-CHIA.html) — Contexto, Habilidades,
   Integrações e Automações como camada inteligente sobre os sistemas oficiais.
+- [Cognificação: da IA aos Sistemas Agênticos](GenAI/Cognificacao-da-IA-aos-Sistemas-Agenticos.html) — da visão de Kevin Kelly à combinação contemporânea de modelos, contexto, ferramentas, feedback e infraestrutura.
+- [Tokens e Tokenização em LLMs](GenAI/Tokens-e-Tokenizacao-em-LLMs.html) — como texto se transforma em tokens, embeddings e geração autorregressiva, influenciando contexto, latência e custo.
 - [Profissões e Papéis](GenAI/Profissões-e-Papéis.html) — funções e especializações associadas à GenAI.
 - [Purple People](GenAI/Purple-People.html) — profissionais que conectam negócio, dados e tecnologia.
 - [Estudar Programação com IA sem Atrofiar o Aprendizado](GenAI/Estudar-Programação-com-IA-sem-Atrofiar-o-Aprendizado.html) — dificuldade desejável, cognitive offloading e técnicas práticas de estudo com IA.
